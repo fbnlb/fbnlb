@@ -9,7 +9,7 @@ Passionate about **Software Development**, **Data Analysis**, **Signal Processin
 
 * **Languages:** Python, R, MATLAB, C/C++ (Basics)
 * **Data & Signal Processing:** Pandas, NumPy, EMG Analysis, ANOVA, Biomechanical Modeling
-* **CAD & Tools:** Fusion 360, Git/GitHub, MS Excel (Advanced)
+* **CAD & Tools:** Fusion 360, Git/GitHub, MS Excel (Advanced), Minitab
 * **Frameworks & Standards:** ISO 13485, ISO 14971, Six Sigma Green Belt (DMAIC)
 
 ---
